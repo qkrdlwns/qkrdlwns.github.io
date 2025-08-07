@@ -1,5 +1,47 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian-vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 05 Aug 2025 05:06:51 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 05 Aug 2025 05:06:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[뇌과학적 최고의 하루 일과 D20250805_1]]></title><description><![CDATA[뇌과학을 통해 설계하는 하루 일과<img alt="사진 1" src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp" referrerpolicy="no-referrer" target="_self" class="is-unresolved"><br>
-<img alt="사진 2" src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_2.webp" referrerpolicy="no-referrer" target="_self" class="is-unresolved">]]></description><link>inbox/뇌과학적-최고의-하루-일과-d20250805_1.html</link><guid isPermaLink="false">Inbox/뇌과학적 최고의 하루 일과 D20250805_1.md</guid><pubDate>Tue, 05 Aug 2025 05:06:31 GMT</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[hello world]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 05 Aug 2025 05:03:18 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[blog test]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Mon, 04 Aug 2025 14:49:42 GMT</pubDate></item><item><title><![CDATA[Inbox]]></title><description><![CDATA[일단 적어]]></description><link>inbox/inbox.html</link><guid isPermaLink="false">Inbox/Inbox.md</guid><pubDate>Mon, 04 Aug 2025 14:44:22 GMT</pubDate></item><item><title><![CDATA[1zpresso k-ultra 그라인더(+삽질)]]></title><description><![CDATA[
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian-vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 07 Aug 2025 01:41:53 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 07 Aug 2025 01:41:52 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[키보드 특수문자와 명칭 D20250806_1]]></title><description><![CDATA[<a data-tooltip-position="top" aria-label="https://m.blog.naver.com/h333j333/221132851951" rel="noopener nofollow" class="external-link is-unresolved" href="https://m.blog.naver.com/h333j333/221132851951" target="_self">자료 출처</a>
++ AI의 정정`&nbsp;Grave Accent (그레이브 악센트)&nbsp;[억음부호]
+~&nbsp;Tilde (틸드)&nbsp;[물결표]
+!&nbsp;Exclamation Point (엑스클러메이션 포인트)&nbsp;[느낌표]
+@&nbsp;At Sign /Commercial At (앳 사인/커머셜 앳) [골뱅이]
+#&nbsp;Hash/Number Sign/Sharp (해시/샵)&nbsp;[샵]
+$&nbsp;Dollar Sign (달러사인)&nbsp;[달러]
+%&nbsp;Percent Sign (퍼센트사인)&nbsp;[퍼센트]
+^&nbsp;Caret (캐럿)&nbsp;[꺽쇠,&nbsp;웃는 눈]
+&amp;&nbsp;Ampersand (앰퍼샌드)&nbsp;[앤드 마크&nbsp;]
+*&nbsp;Asterisk (애스터리스크)&nbsp;[별표,&nbsp;별사탕] &nbsp;
+-&nbsp;Minus/Hyphen/Dash&nbsp;(마이너스/하이픈/대시) [빼기]
+_&nbsp;Underscore/Underline (언더스코어/언더라인)&nbsp;[밑줄]
+=&nbsp;Equal (이퀄)&nbsp;[등호]
++&nbsp;Plus (플러스)&nbsp;[더하기] "&nbsp;Quotation Mark/Double Quotation (쿼테이션 마크)&nbsp;[큰 따옴표]
+'&nbsp;Apostrophe/Single Quotation (어포스트로피)&nbsp;[작은 따옴표]
+, Comma(콤마)&nbsp;[쉼표,&nbsp;콤마]
+.&nbsp;Period / Full Stop (피리어드/풀스탑)&nbsp;[점/마침표] ?&nbsp;question Mark(퀘스천 마크)&nbsp;[물음표]
+/&nbsp;Forward Slash (포워드 슬래시)&nbsp;[슬러쉬]
+\&nbsp;Back Slash (백 슬래시)&nbsp;[역슬러쉬/백슬러쉬]
+|&nbsp;Pipe / Vertical Bar (파이프, 버티컬바) [세로줄] &nbsp;
+:&nbsp;Colon (콜론) [콜론,&nbsp;땡땡]
+;&nbsp;Semicolon (세미콜론)&nbsp;[세미콜론] &nbsp;
+() Parenthesis (퍼렌써시스)&nbsp;[소괄호]
+{}&nbsp;Brace (브레이스)&nbsp;[중괄호]
+[]&nbsp;Bracket (브래킷)&nbsp;[대괄호] &nbsp;
+&lt;&nbsp;Less Than Sign/Left Angle Bracket (레스댄 사인/레프트 앵글브래킷) [작다]
+&gt;&nbsp;Greater Than Sign/Right Angle Bracket (그레이터댄 사인/레프트 앵글 브래킷) [크다]]]></description><link>zk_resource/키보드-특수문자와-명칭-d20250806_1.html</link><guid isPermaLink="false">ZK_Resource/키보드 특수문자와 명칭 D20250806_1.md</guid><pubDate>Wed, 06 Aug 2025 01:17:24 GMT</pubDate></item><item><title><![CDATA[뇌과학적 최고의 하루 일과 D20250805_1]]></title><description><![CDATA[ 1타임, 개척자 모드
+&nbsp; 아침은 거의 모든 능력이 최고조이므로 어려운 활동, 즉
+창발적인 패턴 추출/조합/대입하는 작업을 추천
+AI = '미지의 영역 탐험.' , '정답이 없는 문제' , '불완전한 패턴을 실제로 적용하는 삽질'
+예시 : 작곡 시작, 글의 개요 짜기, 복잡한 알고리즘 설계, 새로운 프로젝트 기획 등
+'무(無)에서 유(有)를 창조' 하는 모든 종류의 일. 이 시간은 길을 만드는 시간입니다. 2타임, 장인 모드
+&nbsp; 오전의 집중시간와 오후의 스퍼트는 창발력은 떨어져도 집중력이 좋으므로, 즉
+이미 가진 능력을 구사하는 작업이 좋다.
+AI = '닦여진 길 위에서 최고 속도로 달리기' , '정답이나 명확한 목표가 있는' , '불필요한 고민 없이, 정해진 규칙대로'
+예시 : 백준 문제 풀이, 코드 리팩토링, 정해진 개요에 따라 글 본문 채우기, 기술 문서 작성 등&nbsp;'정답이나 명확한 목표가 있는'&nbsp;모든 종류의 일. 이 시간은 만들어진 길을 포장하는 시간입니다. 3타임, 학자 모드
+&nbsp; 저녁은 수면을 통한 기억에 유리하며,
+하루 동안의 경험/자극으로 인해 뇌의 연결망이 활성화된 상태.
+새로운 외부 정보를 습득 &amp; 기존 정보들을 링크 하는 것이 유리함.
+AI = '기억 공고화', '새로운 점(dot) 들을 머릿속에 심는 행위'
+예시 : 책 읽기, 튜토리얼 따라 해보기, 강좌 수강, 다른 아티스트의 음악 분석, 옵시디언에서 그날 배운 내용 정리 및 링크 작업 등. 이 시간은 더 효과적이게 길의 재료를 모으고 가공하는 시간입니다.
+<img alt="사진 1" src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp" referrerpolicy="no-referrer" target="_self" class="is-unresolved"><br>
+<img alt="사진 2" src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_2.webp" referrerpolicy="no-referrer" target="_self" class="is-unresolved">]]></description><link>inbox/뇌과학적-최고의-하루-일과-d20250805_1.html</link><guid isPermaLink="false">Inbox/뇌과학적 최고의 하루 일과 D20250805_1.md</guid><pubDate>Wed, 06 Aug 2025 00:50:41 GMT</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/D20250805_1/brain_schedule_1.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[hello world]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 05 Aug 2025 05:03:18 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[blog test]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Mon, 04 Aug 2025 14:49:42 GMT</pubDate></item><item><title><![CDATA[Inbox]]></title><description><![CDATA[일단 적어]]></description><link>inbox/inbox.html</link><guid isPermaLink="false">Inbox/Inbox.md</guid><pubDate>Mon, 04 Aug 2025 14:44:22 GMT</pubDate></item><item><title><![CDATA[1zpresso k-ultra 그라인더(+삽질)]]></title><description><![CDATA[
 <a class="internal-link" data-href="#발단" href="inbox/1zpresso-k-ultra-그라인더(+삽질).html#발단_0" target="_self" rel="noopener nofollow">발단</a>
 <br><a class="internal-link" data-href="#제품소개" href="inbox/1zpresso-k-ultra-그라인더(+삽질).html#제품소개_0" target="_self" rel="noopener nofollow">제품소개</a>
 <br><a class="internal-link" data-href="#다이얼 삽질" href="inbox/1zpresso-k-ultra-그라인더(+삽질).html#다이얼_삽질_0" target="_self" rel="noopener nofollow">다이얼 삽질</a> 좋은 그라인더를 찾고 있었음
